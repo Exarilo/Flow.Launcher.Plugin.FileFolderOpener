@@ -44,4 +44,4 @@ jobs:
         uses: softprops/action-gh-release@v1
         with:
           files: "Flow.Launcher.Plugin.FileFolderOpener.zip"
-          tag_name: "v${{steps.version.outputs.prop}}"
+          tag_name: "v${{steps.version.outputs.prop}}" 

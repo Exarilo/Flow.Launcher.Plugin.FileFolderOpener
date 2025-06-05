@@ -1,0 +1,12 @@
+{
+  "ID": "4500edc2-7feb-7039-gfae-b06efc60c889",
+  "ActionKeyword": "*",
+  "Name": "FileFolderOpener",
+  "Description": "Allows you to open files or folders using keywords set in the settings",
+  "Author": "Exarilo",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/Exarilo/Flow.Launcher.Plugin.FileFolderOpener",
+  "IcoPath": "Images\\app.png",
+  "ExecuteFileName": "Flow.Launcher.Plugin.FileFolderOpener.dll"
+}
